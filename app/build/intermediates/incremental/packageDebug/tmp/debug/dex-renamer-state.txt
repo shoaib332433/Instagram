@@ -1,0 +1,4 @@
+#Wed Nov 06 20:33:14 PKT 2019
+base.0=C\:\\Users\\SHOAIB\\AndroidStudioProjects\\Instagram\\app\\build\\intermediates\\dex\\debug\\mergeDexDebug\\classes.dex
+path.0=classes.dex
+renamed.0=classes.dex
