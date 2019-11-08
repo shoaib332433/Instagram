@@ -10,11 +10,10 @@ public class App extends Application {
         super.onCreate();
 
         Parse.initialize(new Parse.Configuration.Builder(this)
-                .applicationId(getString(R.string.back4app_app_id))
-                .clientKey(getString(R.string.back4app_client_key))
-                .server(getString(R.string.back4app_server_url))
-                .build()
-        );
+        .clientKey(getString(R.string.back4app_client_key))
+        .applicationId(getString(R.string.back4app_app_id))
+        .server(getString(R.string.back4app_server_url))
+        .build());
 
     }
 }

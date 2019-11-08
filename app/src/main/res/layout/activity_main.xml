@@ -35,6 +35,20 @@
             android:hint="Enter the kickboxer value"
             />
 
+        <TextView
+            android:id="@+id/datafromserver"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Hello"
+            />
+
+        <Button
+            android:id="@+id/getalldata"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Get All data"
+            />
+
     </LinearLayout>
 
 
